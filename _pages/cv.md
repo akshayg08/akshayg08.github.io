@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech + MS by Reseach in Computer Science and Engineering, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August'21 - Present : Research Assistant
+  * PreCog@IIITH
+  * Duties included: Lorem Ipsum
+  * Supervisor: Professor Ponnurangam Kumaraguru “PK"
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June'21 - August'21: Research Intern
+  * University of Calgary
+  * Duties included: Lorem Ipsum
+  * Supervisor: Professor Hadi Hemmati
+
+* June'21 - Septmeber'21: AI Engineering Intern
+  * ExaWizards
+  * Duties included: Lorem Ipsum
   
+* December'20 - May'21: Research Intern
+  * Sungkyunkwan University
+  * Duties included: Lorem Ipsum
+  * Supervisor: Professor Hogun Park
+
+* June'20 - Present : Research Assistant
+  * CVIT
+  * Duties included: Lorem Ipsum
+  * Supervisor: Professor Vineet Gandhi
+
+* March'19 - Present : Research Assistant
+  * LTRC
+  * Duties included: Lorem Ipsum
+  * Supervisor: Professor Manish Shrivastava
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages - Python, C, C++, HTML, JavaScript, MATLAB
+* Deep Learning Frameworks - PyTorch, TensorFlow, PyTorch Geometric, Deep Graph Library
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* Akshay Goindani and Manish Shrivastava. 2021. A Dynamic Head Importance Computation Mechanism for Neural Machine Translation. In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), pages 454–462, Held Online. INCOMA Ltd..
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
