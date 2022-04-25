@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'>
+
+<!-- Education
 ======
 * B.Tech + MS by Reseach in Computer Science and Engineering, 2022 (expected)
 
@@ -54,5 +56,5 @@ Publications
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-* Akshay Goindani and Manish Shrivastava. 2021. A Dynamic Head Importance Computation Mechanism for Neural Machine Translation. In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), pages 454–462, Held Online. INCOMA Ltd..
+
   
