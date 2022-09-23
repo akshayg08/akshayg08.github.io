@@ -27,6 +27,26 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
 </header>
 
 <table>
+  <tr>
+    <td><img src="images/exa.png" alt="project image" style="max-width:90%;" /></td>
+      <td>
+        <h2>
+          ExaWizards
+        </h2>
+        <p style="font-size: 11.5pt;">Associate Engineer, Machine Learning <br>July 2022 - Present</p>
+        <p>Working on Temporal Activity Localization in Videos. Specifically, the model takes a natural language description of the activity, and identifies the moments in the video where the activity happens. </p>
+      </td>
+    </tr>
+    <tr>
+    <td><img src="images/amazon.png" alt="project image" style="max-width:90%;" /></td>
+      <td>
+        <h2>
+          Amazon India
+        </h2>
+        <p style="font-size: 11.5pt;">Applied Scientist Intern <br> Apr 2022 - Jun 2022</p>
+        <p>Worked on improving the performance of Attribute Extraction models using Offline Reinforcement Learning (RL). Trained online RL agents to generate trajectories using its policy. Augmented the trajectories using the Trajectory Transformer model, to generate more representative trajectories.</p>
+      </td>
+    </tr>
     <tr>
     <td><img src="images/precog.png" alt="project image" style="max-width:90%;" /></td>
       <td>
