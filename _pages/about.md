@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing B.Tech + MS by Research in Computer Science from <a href="https://www.iiit.ac.in/">IIIT-Hyderabad</a>. I am highly interested in working on various research problems in the field of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Computational Social Science. Currently, I am working on my Master's Thesis with <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Professor Manish Shrivastava</a> on Neural Machine Translation for Low-Resource languages and, Translation and Generation of Code-Mixed sentences. 
+I have recently graduated from <a href="https://www.iiit.ac.in/">IIIT-Hyderabad</a> with B.Tech (Honours) + MS by Research in Computer Science. I am highly interested in working on various research problems in the field of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Computational Social Science. Currently, I am working on my Master's Thesis with <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Professor Manish Shrivastava</a> on Neural Machine Translation for Low-Resource languages and, Translation and Generation of Code-Mixed sentences. 
 
 I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor Vineet Gandhi</a> on improving the generalization ability of Image Classification models on unseen domains. Moreover, I am working on the detection of religious Hate Speech on online social media platforms such as Twitter, advised by <a href="https://precog.iiit.ac.in/">Professor Ponnurangam Kumaraguru “PK"</a> and <a href="https://jisun.me/">Professor Jisun An</a>.
 
@@ -18,6 +18,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
 </header>
 
 <ul>
+  <li><b>July 2022:</b> Defended my Master's Thesis on <b>"Neural Machine Translation for Low Resource Languages."</b> [ <a href="https://docs.google.com/presentation/d/191au_y3Z-MmDRkBX2GubCK8QIPJkeuiF8aNF3ncz0Gg/edit?usp=sharing">Slides</a> ] [ <a href="https://blogs.iiit.ac.in/monthly_news/akshay-goindani-low-resource-languages/">Blog</a> ]</li>
   <li><b>December 2021:</b> Our work <b>"Reappraising Domain Generalization in Neural Networks"</b> uploaded as a Pre-print.</li>
   <li><b>August 2021:</b> Our work <b>"A Dynamic Head Importance Computation Mechanism"</b> accepted for publication at the Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021).</li>
 </ul>
@@ -28,7 +29,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
 
 <table>
   <tr>
-    <td><img src="images/exa.png" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/exa.png" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           ExaWizards
@@ -38,7 +39,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/amazon.png" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/amazon.png" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           Amazon India
@@ -48,7 +49,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/precog.png" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/precog.png" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           PreCog
@@ -58,7 +59,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/uc.jpeg" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/uc.jpeg" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           University of Calgary
@@ -68,7 +69,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/skku.jpeg" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/skku.jpeg" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           Sungkyunkwan University
@@ -78,7 +79,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/exa.png" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/exa.png" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           ExaWizards
@@ -88,7 +89,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/cvit.jpeg" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/cvit.jpeg" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           CVIT, IIIT-Hyderabad
@@ -98,7 +99,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
       </td>
     </tr>
     <tr>
-    <td><img src="images/iiit.jpg" alt="project image" style="max-width:90%;" /></td>
+    <td><img src="images/iiit.jpg" alt="project image" style="max-width:100%;" /></td>
       <td>
         <h2>
           LTRC, IIIT-Hyderabad
