@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akshay Goindani"
 title_separator          : "-"
 name                     : &name "Akshay Goindani"
-description              : &description "Researcher in ML, DL, NLP, and Computer Vision"
+description              : &description "Researcher in Deep Learning, NLP, Computer Vision, and Multimodal ML."
 url                      : https://akshayg08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akshayg08/akshayg08.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Akshay Goindani"
   avatar           : "profile.png"
-  bio              : "Researcher in ML, DL, NLP, and Computer Vision"
-  location         : "Hyderabad, India"
+  bio              : "Researcher in Deep Learning, NLP, Computer Vision, and Multimodal ML."
+  location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lvTPGo0AAAAJ&hl=en"

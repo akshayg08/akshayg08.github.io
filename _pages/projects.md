@@ -22,6 +22,6 @@ author_profile: true
 
 <h2>Deep Crypt</h2>
 <p>
-  An unsupervised method to learn bilingual word embeddings involving two languages. Transformed the word embeddings in individual languages to the bilingual embedding space, using neural networks. Optimized the network parameters using self training. Visualising the embedding space shows that the embeddings of words in different languages with same meaning were close. [ <a href="https://github.com/akshayg08/NLP-Project">Github</a> ]
+  Designed Bayesian and Hyperplane classifiers for encrypted data. The ML model on the server runs inference on the encrypted data provided by the client. The classifier is built using the DGK, Paillier, and Goldwasser Macali cryptosystems, which help to implement the argmax, comparison, and dot product operators for encrypted inputs.[ <a href="https://github.com/akshayg08/POIS_deepcrypt">Github</a> ]
 </p>
 

@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I have recently graduated from <a href="https://www.iiit.ac.in/">IIIT-Hyderabad</a> with B.Tech (Honours) + MS by Research in Computer Science. I am highly interested in working on various research problems in the field of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Computational Social Science. During my Master's, I worked on Neural Machine Translation for Low-Resource languages and, Translation and Generation of Code-Mixed sentences, under the supervision of <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Professor Manish Shrivastava</a>. Currently, I am working as an Associate Engineer, Machine Learning at <a href="https://www.exawizards.in/">ExaWizards</a>. I am working on Natural Language query based Temporal Activity Localization.  
+I will be joining Carnegie Mellon University (CMU) as a Master's student pursuing MS in Intelligent Information Systems, in Fall 2023. I am highly interested in working on various research problems in the field of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Multimodal ML. Previously, I worked as an Associate Machine Learning Engineer at <a href="https://www.exawizards.in/">ExaWizards</a>, where I worked on designing and deploying Natural Language query based Temporal Activity Localization systems. I graduated from <a href="https://www.iiit.ac.in/">IIIT-Hyderabad</a> with B.Tech (Honours) + MS by Research in Computer Science. During my Master's, I worked on Neural Machine Translation for Low-Resource languages and, Translation and Generation of Code-Mixed data, under the supervision of <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Professor Manish Shrivastava</a>.  
 
-I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor Vineet Gandhi</a> on improving the generalization ability of Image Classification models on unseen domains. Moreover, I am working on the detection of religious Hate Speech on online social media platforms such as Twitter, advised by <a href="https://precog.iiit.ac.in/">Professor Ponnurangam Kumaraguru “PK"</a> and <a href="https://jisun.me/">Professor Jisun An</a>.
+I have also worked with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor Vineet Gandhi</a> on improving the generalization ability of Image Classification models on unseen domains. Moreover, I worked on the detection of religious Hate Speech on online social media platforms such as Twitter, advised by <a href="https://precog.iiit.ac.in/">Professor Ponnurangam Kumaraguru “PK"</a> and <a href="https://jisun.me/">Professor Jisun An</a>.
 
 
 <header>
-  <h1 itemprop="headline">Updates</h1>
+  <h1 itemprop="headline">News</h1>
 </header>
 
 <ul>
+  <li><b>October 2022:</b> Our work <b>"Class-wise Domain Generalization: A Novel Framework for Evaluating Distributional Shift"</b> accepted for publication at NeurIPS 2022 Workshop on Distribution Shifts.</li>
   <li><b>July 2022:</b> Defended my Master's Thesis on <b>"Neural Machine Translation for Low Resource Languages."</b> [ <a href="https://docs.google.com/presentation/d/191au_y3Z-MmDRkBX2GubCK8QIPJkeuiF8aNF3ncz0Gg/edit?usp=sharing">Slides</a> ] [ <a href="https://blogs.iiit.ac.in/monthly_news/akshay-goindani-low-resource-languages/">Blog</a> ]</li>
   <li><b>December 2021:</b> Our work <b>"Reappraising Domain Generalization in Neural Networks"</b> uploaded as a Pre-print.</li>
   <li><b>August 2021:</b> Our work <b>"A Dynamic Head Importance Computation Mechanism"</b> accepted for publication at the Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021).</li>
@@ -34,7 +35,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
         <h2>
           ExaWizards
         </h2>
-        <p style="font-size: 11.5pt;">Associate Engineer, Machine Learning <br>July 2022 - Present</p>
+        <p style="font-size: 11.5pt;">Associate Engineer, Machine Learning <br>July 2022 - Jun 2023</p>
         <p>Working on Temporal Activity Localization in Videos. Specifically, the model takes a natural language description of the activity, and identifies the moments in the video where the activity happens. </p>
       </td>
     </tr>
@@ -54,7 +55,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
         <h2>
           PreCog
         </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Ponnurangam Kumaraguru & Dr. Jisun An <br> Aug 2021 - Present</p>
+        <p style="font-size: 11.5pt;">Research Assistant with Dr. Ponnurangam Kumaraguru & Dr. Jisun An <br> Aug 2021 - Mar 2023</p>
         <p>Working on the detection of hate speech on online social media platforms such as Twitter. Specifically, we analyze the effects of offline events such as COVID-19 pandemic, on the spread of hateful content towards the Muslim community in India. </p>
       </td>
     </tr>
@@ -94,7 +95,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
         <h2>
           CVIT, IIIT-Hyderabad
         </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Vineet Gandhi <br> Jun 2020 - Present</p>
+        <p style="font-size: 11.5pt;">Research Assistant with Dr. Vineet Gandhi <br> Jun 2020 - Mar 2022</p>
         <p>Working on improving the generalization ability of Image Classification models on unseen domains. Proposed a model that achieves state-of-the-art performance on <a href = "https://github.com/facebookresearch/DomainBed">multiple datasets</a>. Also, proposed a new approach for evaluation that is closer to human judgment and more challenging than traditional methods. [ <a href="https://arxiv.org/pdf/2110.07981.pdf">arxiv</a> ]</p>
       </td>
     </tr>
@@ -104,7 +105,7 @@ I am also working with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor 
         <h2>
           LTRC, IIIT-Hyderabad
         </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Manish Shrivastava <br> Jun 2019 - Present</p>
+        <p style="font-size: 11.5pt;">Research Assistant with Dr. Manish Shrivastava <br> Jun 2019 - Mar 2022</p>
         <p>Working on enhancing the performance of Neural Machine Translation models on low-resource languages. Proposed a novel approach for dynamically computing importance scores of various attention heads of the Transformer model [ <a href="https://aclanthology.org/2021.ranlp-1.52/">Paper</a> ]. I am also working on improving translation and generation of code-mixed data.</p>
       </td>
     </tr>
