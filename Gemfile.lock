@@ -295,7 +295,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll (~> 4.27)
   webrick (~> 1.8)
 
 BUNDLED WITH
