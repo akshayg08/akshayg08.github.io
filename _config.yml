@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Akshay Goindani"
@@ -82,8 +86,8 @@ analytics:
 author:
   name             : "Akshay Goindani"
   avatar           : "profile.png"
-  bio              : "Researcher in Deep Learning, NLP, Computer Vision, and Multimodal ML."
-  location         : "Pittsburgh, PA, USA"
+  bio              : "Founding Research Engineer at Voyage AI"
+  location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lvTPGo0AAAAJ&hl=en"
@@ -115,6 +119,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/CV.pdf"
 
 
 # Reading Files

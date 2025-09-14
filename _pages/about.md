@@ -8,106 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining Carnegie Mellon University (CMU) as a Master's student pursuing MS in Intelligent Information Systems, in Fall 2023. I am highly interested in working on various research problems in the field of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Multimodal ML. Previously, I worked as an Associate Machine Learning Engineer at <a href="https://www.exawizards.in/">ExaWizards</a>, where I worked on designing and deploying Natural Language query based Temporal Activity Localization systems. I graduated from <a href="https://www.iiit.ac.in/">IIIT-Hyderabad</a> with B.Tech (Honours) + MS by Research in Computer Science. During my Master's, I worked on Neural Machine Translation for Low-Resource languages and, Translation and Generation of Code-Mixed data, under the supervision of <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Professor Manish Shrivastava</a>.  
+I am a Founding Research Engineer at Voyage AI, where I led the development of the first Instruction-Following rerankers (<a href="https://blog.voyageai.com/2025/08/11/rerank-2-5/">voyage-Rerank&nbsp;2.5</a>) in the Industry, achieveing state-of-the-art performance on numerous benchmarks. I now drive research on next-generation multimodal embedding models, pushing the frontier of cross-modal understanding and retrieval.
 
-I have also worked with <a href="https://faculty.iiit.ac.in/~vgandhi/">Professor Vineet Gandhi</a> on improving the generalization ability of Image Classification models on unseen domains. Moreover, I worked on the detection of religious Hate Speech on online social media platforms such as Twitter, advised by <a href="https://precog.iiit.ac.in/">Professor Ponnurangam Kumaraguru “PK"</a> and <a href="https://jisun.me/">Professor Jisun An</a>.
-
+I graduated from Carnegie Mellon University (CMU) with an M.S. in Intelligent Information Systems (Dec 2024). I worked with Prof. Paul Pu Liang and Prof. LP Morency on improving cross-modal interactions in Large Vision-Language Models. As a part of my reseach, we released (<a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/4b6e5dae3acb4cfdfe5928a6eff174ee-Paper-Datasets_and_Benchmarks_Track.pdf">HEMM: Holistic Evaluation of Multimodal Foundation Models</a>) a holistic evaluation framework that systematically assesses multimodal foundation models across diverse tasks by decomposing performance based on varying degrees of multimodal interaction and reasoning complexity. My research interests broadly lie in <b>Multimodal Understanding, Post-training, Reasoning and Continual Learning</b>.
 
 <header>
   <h1 itemprop="headline">News</h1>
 </header>
 
 <ul>
-  <li><b>October 2022:</b> Our work <b>"Class-wise Domain Generalization: A Novel Framework for Evaluating Distributional Shift"</b> accepted for publication at NeurIPS 2022 Workshop on Distribution Shifts.</li>
-  <li><b>July 2022:</b> Defended my Master's Thesis on <b>"Neural Machine Translation for Low Resource Languages."</b> [ <a href="https://docs.google.com/presentation/d/191au_y3Z-MmDRkBX2GubCK8QIPJkeuiF8aNF3ncz0Gg/edit?usp=sharing">Slides</a> ] [ <a href="https://blogs.iiit.ac.in/monthly_news/akshay-goindani-low-resource-languages/">Blog</a> ]</li>
-  <li><b>December 2021:</b> Our work <b>"Reappraising Domain Generalization in Neural Networks"</b> uploaded as a Pre-print.</li>
-  <li><b>August 2021:</b> Our work <b>"A Dynamic Head Importance Computation Mechanism"</b> accepted for publication at the Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021).</li>
+  <li>Released the first Instruction Following re-ranker:  voyage-rerank-2.5.</li>
+  <li>Our work <b>"HEMM: Holistic Evaluation of Multimodal Foundation Models"</b> accepted for publication at NeurIPS 2024.</li>
 </ul>
 
 <header>
-  <h1 itemprop="headline">Experience</h1>
+  <h1 itemprop="headline">Publications</h1>
 </header>
 
-<table>
-  <tr>
-    <td><img src="images/exa.png" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          ExaWizards
-        </h2>
-        <p style="font-size: 11.5pt;">Associate Engineer, Machine Learning <br>July 2022 - Jun 2023</p>
-        <p>Working on Temporal Activity Localization in Videos. Specifically, the model takes a natural language description of the activity, and identifies the moments in the video where the activity happens. </p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/amazon.png" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          Amazon India
-        </h2>
-        <p style="font-size: 11.5pt;">Applied Scientist Intern <br> Apr 2022 - Jun 2022</p>
-        <p>Worked on improving the performance of Attribute Extraction models using Offline Reinforcement Learning (RL). Trained online RL agents to generate trajectories using its policy. Augmented the trajectories using the Trajectory Transformer model, to generate more representative trajectories.</p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/precog.png" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          PreCog
-        </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Ponnurangam Kumaraguru & Dr. Jisun An <br> Aug 2021 - Mar 2023</p>
-        <p>Working on the detection of hate speech on online social media platforms such as Twitter. Specifically, we analyze the effects of offline events such as COVID-19 pandemic, on the spread of hateful content towards the Muslim community in India. </p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/uc.jpeg" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          University of Calgary
-        </h2>
-        <p style="font-size: 11.5pt;">Research Intern with Dr. Hadi Hemmati <br> Jun 2021 - Sep 2021</p>
-        <p>Worked on Explainable Machine Learning. Designed and Implemented a method to generate explanations for sequence prediction tasks such as Code-Documentation generation. The explainable model was able to highlight the code-tokens and code-lines relevant to the generated documentation. </p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/skku.jpeg" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          Sungkyunkwan University
-        </h2>
-        <p style="font-size: 11.5pt;">Research Intern with Dr. Hogun Park <br> Dec 2020 - Apr 2021</p>
-        <p>Worked on grounding knowledge graphs to impart commonsense knowledge to Question-Answering models for Multiple Choice QA task. We use Graph Convolution Networks to encode the information from the gounded knowledge graph, and use the dense representation along with the semantic featues for classification. The proposed new grounding method creates a dense schema graph, and enhances the performance of the QA models. [ <a href="https://github.com/akshayg08/Augmenting-QA-models-with-external-Knowledge-Graphs">GitHub</a> ]</p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/exa.png" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          ExaWizards
-        </h2>
-        <p style="font-size: 11.5pt;">AI Engineering Intern <br> Jun 2021 - Aug 2021</p>
-        <p>Worked on view-invariant body pose retrieval. Implemented a method to retrieve similar body poses of a given query pose. The method is able to identify poses with the same 3D pose but different 2D projections.</p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/cvit.jpeg" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          CVIT, IIIT-Hyderabad
-        </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Vineet Gandhi <br> Jun 2020 - Mar 2022</p>
-        <p>Working on improving the generalization ability of Image Classification models on unseen domains. Proposed a model that achieves state-of-the-art performance on <a href = "https://github.com/facebookresearch/DomainBed">multiple datasets</a>. Also, proposed a new approach for evaluation that is closer to human judgment and more challenging than traditional methods. [ <a href="https://arxiv.org/pdf/2110.07981.pdf">arxiv</a> ]</p>
-      </td>
-    </tr>
-    <tr>
-    <td><img src="images/iiit.jpg" alt="project image" style="max-width:100%;" /></td>
-      <td>
-        <h2>
-          LTRC, IIIT-Hyderabad
-        </h2>
-        <p style="font-size: 11.5pt;">Research Assistant with Dr. Manish Shrivastava <br> Jun 2019 - Mar 2022</p>
-        <p>Working on enhancing the performance of Neural Machine Translation models on low-resource languages. Proposed a novel approach for dynamically computing importance scores of various attention heads of the Transformer model [ <a href="https://aclanthology.org/2021.ranlp-1.52/">Paper</a> ]. I am also working on improving translation and generation of code-mixed data.</p>
-      </td>
-    </tr>
+<ul>
+  <li><b>Liang, Paul Pu*, Akshay Goindani*</b>, Talha Chafekar, Leena Mathur, Haofei Yu, Ruslan Salakhutdinov, and Louis-Philippe Morency. <b>"HEMM: Holistic Evaluation of Multimodal Foundation Models."</b> <i>Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>: 42899-42940. [<a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/4b6e5dae3acb4cfdfe5928a6eff174ee-Paper-Datasets_and_Benchmarks_Track.pdf">PDF</a>]</li>
+  
+  <li><b>Sivaprasad Sarath*, Akshay Goindani*</b>, Mario Fritz, and Vineet Gandhi. <b>"Class-wise Domain Generalization: A Novel Framework for Evaluating Distributional Shift."</b> <i>NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications</i>. [<a href="https://openreview.net/pdf?id=pkdNspyfcy">PDF</a>]</li>
+  
+  <li><b>Akshay Goindani</b>, Manish Shrivastava. <b>"A Dynamic Head Importance Computation Mechanism for Neural Machine Translation."</b> <i>International Conference on Recent Advances in Natural Language Processing (RANLP 2021)</i>. [<a href="https://aclanthology.org/2021.ranlp-1.52.pdf">PDF</a>]</li>
+  
+  <li>Kodali, P., Sachan, T., <b>Goindani, A.</b>, Goel, A., Ahuja, N., Shrivastava, M. and Kumaraguru, P. <b>"PreCogIIITH at HinglishEval: Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality."</b> <i>arXiv preprint arXiv:2206.07988</i> (2022). [<a href="https://arxiv.org/pdf/2206.07988.pdf">PDF</a>]</li>
+</ul> 
 
-</table>
